@@ -1,5 +1,5 @@
 # RISC-V-single-cycle-core-Logisim
-## INTRODUCTION:
+## INTRODUCTION
 Logisim is a digital circuit simulation software it can be used to design sequntial and combinational circuits  
 ## DESIGN
 RV32I signle cycle simulation on an open source software Logisim
