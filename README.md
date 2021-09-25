@@ -20,4 +20,4 @@ This implementation can help the beginners of RISC-V to get started. The circuit
 - Memories (data and inst)  
 
 ## Top level diagram
-![alt text](https://github.com/zeeshanrafique23/RISC-V-single-cycle-core-Logisim/blob/master/img.png)
+![alt text](https://github.com/zeeshanrafique23/RISC-V-single-cycle-core-Logisim/blob/master/image.png)
