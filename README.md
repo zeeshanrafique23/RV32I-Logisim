@@ -1,7 +1,23 @@
-# RISC-V-single-cycle-core-Logisim
-### Introduction
-Logisim allows you to design and simulate digital circuits. It is intended as an educational tool, to help you learn how circuits work.
-#### Design
-RV32I signle cycle simulation on an open source software Logisim
-This repository is for RISC-V single cycle core. Team UIT has completed the whole implementation of a 32-Bit Single Cycle RISC-V Core on Logisim as well as on Chisel and developed the verilog file of it from the Chisel code. The core is being tested on FPGA now. To view the simmulation you have to install Logisim, an open source software as well as java run time enviourment.
-![alt text](https://github.com/zeeshanrafique009/RISC-V-single-cycle-core-Logisim/blob/master/Single%20Cycle%20RISC-V%20Core.png)
+# RV32I-Logisim
+## Introduction
+Logisim allows you to design and simulate digital circuits. It is intended as an educational tool, to help you learn how circuits work. This is the implementation of RISC-V base ISA RV32I.
+## Pre-requesits
+You need to install [Logisim](http://www.cburch.com/logisim/) and [Java Run-time Environment](https://ubuntu.com/tutorials/install-jre#2-installing-openjdk-jre) to run the simulation on logisim by running the following commands.  
+  
+  
+For Ubuntu run the following set of commands.
+
+    sudo apt install logisim; sudo apt install default-jre; java -version
+
+## Design
+This implementation can help the beginners of RISC-V to get started. The circuit includes
+- PC
+- Register File
+- ALU
+- ALU Control
+- Control Unit
+- Immediate generation
+- Memories (data and inst)  
+
+## Top level diagram
+![alt text](https://github.com/zeeshanrafique23/RISC-V-single-cycle-core-Logisim/blob/master/Single%20Cycle%20RISC-V%20Core.png)
