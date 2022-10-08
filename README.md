@@ -1,7 +1,7 @@
 # RV32I-Logisim
 ## Introduction
 Logisim allows you to design and simulate digital circuits. It is intended as an educational tool, to help you learn how circuits work. This is the implementation of RISC-V base ISA RV32I.
-## Pre-requesits
+## Pre-requisites
 You need to install [Logisim](http://www.cburch.com/logisim/) and [Java Run-time Environment](https://ubuntu.com/tutorials/install-jre#2-installing-openjdk-jre) to run the simulation on logisim by running the following commands.  
   
   
